@@ -1,0 +1,3 @@
+This is a beginners unity game, essentially an arcade space shooter game.
+Implementsi Coroutines, uses game update function, and demonstrates
+an abillity to instantiate and destroy prefabs.
